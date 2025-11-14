@@ -3,10 +3,10 @@ project:
   id: 7204695b-7485-4989-863c-16cf6e4db155
   title: Thermolab
   authors: 
-    - name: Freek Pols
-    - name: Roel Smit
+    - name: Jens Groen
+    - name: Tijn de Nooijer
 
-  date: 2025-11-05
+  date: 2025-11-14
   github: https://github.com/JensGroen/Groep-i # Change this URL to your GitHub repository
 
 extends:
