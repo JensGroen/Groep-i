@@ -1,0 +1,43 @@
+
+1. Weeg het water met een weegschaal
+2. meet de temperatuur van het water met een thermometer
+3. zet de powersupply aan
+3. meet elke 10 seconde, de temperatuur met the thermometer 5 minuten lang 
+4. schrijf de stroomsterkte en het vermogen op voor de zekerheid
+5. doe een dansje
+6. schrijf alles in een tabel
+
+water: 200mL
+
+data:
+data = np.array(26.0,
+25.9,
+25.9,
+26.1,
+26.4,
+26.7,
+27,
+27.3,
+27.5,
+27.8,
+28.1,
+28.4,
+28.7,
+29,
+29.3,
+29.6,
+29.9,
+30.3,
+30.6,
+30.9,
+31.2,
+31.5,
+31.8,
+32.1,
+32.4,
+32.6,
+32.9,
+33.1,
+33.4,
+33.6,
+33.9)
